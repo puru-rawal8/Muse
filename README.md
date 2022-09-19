@@ -5,4 +5,4 @@ Work in progress to make it more responsive using full stack web development. �
 ----------------------------------------------------------------
 Link 🔗 is provided in the about section, feel free to check it out.
 ----------------------------------------------------------------
-If you like it, leave a ⭐ ont this repository.
+If you like it, leave a ⭐ on this repository.
